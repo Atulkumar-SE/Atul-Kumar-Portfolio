@@ -1,6 +1,6 @@
 # 🚀 Atul Kumar's Portfolio
 
-![Portfolio Banner](./public/aj.png)
+![Portfolio Banner](./public/portfolio.png)
 
 A sleek, premium, high-performance developer portfolio built with modern frontend architecture. This project showcases interactive UI/UX designs, responsive web development layouts, and structured project modules with a focus on seamless user experiences.
 
@@ -13,7 +13,6 @@ A sleek, premium, high-performance developer portfolio built with modern fronten
 - **🎭 Smooth Animations**: Fluid transitions and interactive elements powered by Framer Motion
 - **📱 Fully Responsive**: Works seamlessly on desktop, tablet, and mobile devices
 - **🎯 SEO Optimized**: Meta tags and structured content for better search visibility
-- **🌙 Dark Mode Ready**: Easily extensible for dark/light theme support
 
 ---
 
@@ -40,7 +39,8 @@ portfolio/
 │       └── globals.css        # Global styles
 ├── public/
 │   ├── aj.png                 # Portfolio profile image
-│   └── Atul Kumar-Frontend.pdf # Resume/CV
+│   |── Atul Kumar-Frontend.pdf # Resume/CV
+│   └── portfolio.png          # For Readme file
 ├── package.json               # Dependencies
 ├── tailwind.config.js         # Tailwind configuration
 ├── postcss.config.js          # PostCSS setup
@@ -61,7 +61,7 @@ Follow these steps to set up and run the repository locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Atulkumar-SE/Atul-Kumar-Portfolio.git
 cd portfolio
 ```
 
@@ -268,10 +268,10 @@ This project is open source and available under the **MIT License**. See the LIC
 
 Built by **Atul Kumar** | Frontend Developer
 
-- **Portfolio**: [Your Portfolio URL]
-- **GitHub**: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [your.email@example.com]
+- **Portfolio**: [Website_Link](https://atulkumar-se.github.io/Atul-Kumar-Portfolio/)
+- **GitHub**: [@Atulkumar-SE](https://github.com/Atulkumar-SE)
+- **LinkedIn**: [@Atul Jaiswal](https://www.linkedin.com/in/atul-jaiswal-sde/)
+- **Email**: atuljaiswal.se@gmail.com
 
 ---
 
