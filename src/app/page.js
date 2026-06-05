@@ -265,9 +265,9 @@ function Nav({ activeSection }) {
         {/* Brand Logo */}
         <MotionLink
           href="#home"
-          className="font-logo inline-block text-3xl sm:text-4xl font-extrabold tracking-[-0.08em] text-white select-none cursor-pointer lowercase"
+          className="font-logo inline-block text-3xl sm:text-6xl font-extrabold tracking-[-0.08em] text-white select-none cursor-pointer lowercase"
           animate={{
-            y: [0, -3, 0],
+            y: [0, -4, 0],
           }}
           transition={{
             duration: 3,
@@ -501,13 +501,13 @@ function Hero() {
             animate={{ rotate: 360 }}
             transition={{ duration: 18, repeat: Infinity, ease: "linear" }}
             className="absolute w-72 h-72 md:w-96 md:h-96 rounded-full"
-            style={{ border: "1px dashed rgba(255,87,34,0.3)" }}
+            style={{ border: "3px dashed rgba(255,87,34,0.3)" }}
           />
           <motion.div
             animate={{ rotate: -360 }}
             transition={{ duration: 28, repeat: Infinity, ease: "linear" }}
             className="absolute w-80 h-80 md:w-[420px] md:h-[420px] rounded-full"
-            style={{ border: "1px dashed rgba(255,171,64,0.15)" }}
+            style={{ border: "2px dashed rgba(255,171,64,0.15)" }}
           />
 
           {/* Profile circle */}
