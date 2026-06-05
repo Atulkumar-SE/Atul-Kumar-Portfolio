@@ -1,0 +1,21 @@
+# Build folders
+.next/
+out/
+build/
+
+# Dependency directories
+node_modules/
+
+# Local environment variables files
+.env*.local
+.env
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System files
+.DS_Store
+*.local
