@@ -521,7 +521,7 @@ function Hero() {
             {/* Placeholder avatar */}
             <div className="absolute inset-0 flex flex-col items-center justify-center bg-gradient-to-br from-[#1A102F] to-[#0B0F19]">
               <img
-                src="/aj.png"
+                src="aj.png"
                 alt="Atul Kumar"
                 className="w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-700"
               />

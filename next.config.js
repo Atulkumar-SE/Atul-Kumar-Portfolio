@@ -4,5 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  // Add these two lines (Ensure you keep the leading slash)
+  basePath: '/Atul-Kumar-Portfolio', 
+  assetPrefix: '/Atul-Kumar-Portfolio',
 }
 module.exports = nextConfig
